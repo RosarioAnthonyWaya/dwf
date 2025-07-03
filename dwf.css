@@ -5256,7 +5256,8 @@ strong {
 
 .grid-image-full {
     object-fit: fill;
-    height: 100%
+    height: auto;
+    
 }
 
 .form-block {
